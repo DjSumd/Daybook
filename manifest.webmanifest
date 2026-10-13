@@ -1,4 +1,5 @@
 {
+  "id": "./?app=daybook",
   "name": "Daybook",
   "short_name": "Daybook",
   "description": "A quick daily record of work done, with a searchable archive and printable receipts.",

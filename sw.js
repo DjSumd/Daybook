@@ -1,5 +1,5 @@
 // Daybook service worker — offline app shell cache
-const CACHE = "daybook-v1";
+const CACHE = "daybook-v2";
 const ASSETS = [
   "./",
   "./index.html",
